@@ -1,0 +1,7 @@
+pageObject\Vendor.class
+pageObject\AdminPage.class
+pageObject\OrderPage.class
+pageObject\AddNewCustomerPage.class
+pageObject\CustomerPage.class
+pageObject\DashboardPage.class
+pageObject\VendorPage.class
